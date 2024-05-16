@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasks-rudux/static/css/main.72741b6a.css",
+    "main.js": "/tasks-rudux/static/js/main.346ea036.js",
+    "index.html": "/tasks-rudux/index.html",
+    "main.72741b6a.css.map": "/tasks-rudux/static/css/main.72741b6a.css.map",
+    "main.346ea036.js.map": "/tasks-rudux/static/js/main.346ea036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72741b6a.css",
+    "static/js/main.346ea036.js"
+  ]
+}
